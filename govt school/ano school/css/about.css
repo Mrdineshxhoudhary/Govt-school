@@ -1,0 +1,36 @@
+.benner2{
+  min-height: 430px;
+  background: url("../img/benner/benner-3.jpg") no-repeat center;
+  position: relative;
+    z-index: 1;
+    padding-top: 0 !important;
+    background-size: 1455px;
+}
+.banner_inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    min-height: 392px;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    background: rgba(0, 35, 71, 0.39);
+    min-height: 430px;
+    overflow: hidden;
+    justify-content: center;
+}
+.abut-sub-btn{
+    width: 200px;
+}
+.img-- img{
+    max-width: 100%;
+    height: auto;
+}
+/* border: 
+ */
+ .box-about-01{
+border: solid #80808057 6px;
+    padding: 13px 30px;
+    height: 442px;
+    right: 36px;
+ }
